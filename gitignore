@@ -1,0 +1,18 @@
+# Output files
+output/
+*.txt
+*.wav
+*.mp3
+*.m4a
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
