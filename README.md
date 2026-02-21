@@ -42,7 +42,7 @@ Apple PodcastのURLを貼るだけで、**話者分離つき文字起こし**テ
 
 ### 実行手順
 
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/podcast-transcriber/blob/main/podcast_transcribe.ipynb) をクリック
+1. [![Open In Colab]((https://colab.research.google.com/github/Bun7/podcast-transcriber/blob/main/Podcast_Transcribe.ipynb)) をクリック
 
 2. **GPU を有効化**: メニュー → `ランタイム` → `ランタイムのタイプを変更` → **T4 GPU**
 
